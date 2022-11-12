@@ -1,5 +1,9 @@
 ﻿.vs
 ipch
-axxposplit/Release
+axxposplit
 Debug
 Release
+navtxtsplit.sdf
+navtxtsplit.suo
+navtxtsplit.VC.db
+xposplit.c
