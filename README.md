@@ -1,4 +1,4 @@
-# Microsoft Dynamics NAV/AX Tools
+# Microsoft Dynamics NAV Tools
 
 ## NAV txt export split
 
