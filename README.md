@@ -12,6 +12,6 @@ The output file names are standardized. For example "Codeunit 1.txt" for OBJECT 
 
 The binary exports are not supported.
 
-Written in C the tool was originally developed in 2006. Tested with NAV version 3.7, 4.0, 5.0, 6.0 (objects version). It should work with later versions unless the txt export format has not fundamentally changed.
+Written in C the tool was originally developed in 2006. Tested with NAV version 3.7, 4.0, 5.0, 6.0 (objects version). It should work with newer versions unless the txt export format has changed fundamentally.
 
 To build the tool use standard C compiler like gcc and optionally the make utility.
